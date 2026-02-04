@@ -61,6 +61,13 @@
   align-items: center;
   justify-content: center;
 }
+
+.big-img{
+  max-width: 120%;
+  background-repeat: no-repeat;
+}
+
+
 .four{
     white-space: nowrap;
 }
