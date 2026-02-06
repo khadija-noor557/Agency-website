@@ -115,9 +115,11 @@
 
 }
 
-.socials{
-  margin-top: 20px;
+.socials1 .socials2 .socials3 .socials4{
+  margin-top: 12%;
   position: absolute;
   left: 20%px !important;
+  border: 1px solid grey;
 }
+
 
